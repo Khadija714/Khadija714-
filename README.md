@@ -28,10 +28,7 @@ Stay updated with my professional timeline and career path by reviewing my backg
 
 ## 🐍 GitHub Contribution Snake
 
-![github contribution grid snake animation](https://jsdelivr.net)
-
-
-
+![github contribution grid snake animation](https://githubusercontent.com)
 
 ---
 
