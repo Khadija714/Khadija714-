@@ -45,11 +45,13 @@ Stay updated with my professional timeline and career path by reviewing my backg
 
 ---
 
----
 
 ## 🐍 GitHub Contribution Snake
 
-![github contribution grid snake animation](https://githubusercontent.com)
+![github contribution grid snake animation](https://weserv.nl)
+
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khadijamalikm07@gmail.com)
