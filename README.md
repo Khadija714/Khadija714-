@@ -24,11 +24,7 @@ Stay updated with my professional timeline and career path by reviewing my backg
 
 📥 [Review My Digital Resume](https://github.com/Khadija714/Khadija_Malik-Resume) | 🌐 [Connect on LinkedIn](https://www.linkedin.com/in/khadija11)
 
----
 
-## 🐍 GitHub Contribution Snake
-
-![github contribution grid snake animation](https://githubusercontent.com)
 
 ---
 
@@ -48,6 +44,12 @@ Stay updated with my professional timeline and career path by reviewing my backg
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Khadija714&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![github contribution grid snake animation](https://githubusercontent.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khadijamalikm07@gmail.com)
